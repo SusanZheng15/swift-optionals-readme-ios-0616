@@ -1,4 +1,4 @@
-var petName: String?
+var petName: String? //makes it nil as we haven't used the variables yet
 petName = "Scooter 🐢"
 print(petName)
 
